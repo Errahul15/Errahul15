@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Errahul15
 - 👀 I’m interested in Full stack web development 
-- 🌱 I’m currently learning MERN And Java
+- 🌱 I’m currently learning MERN And PHP
 - 📫 How to reach me errahul532@gmail.com
 
 <!---
